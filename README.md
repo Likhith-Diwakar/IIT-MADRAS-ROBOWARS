@@ -14,7 +14,7 @@ Border Protection: Enhanced with titanium plates for superior defense against op
 
 Mobility
 
-Equipped with two 1000 KV motors to drive the wheels, ensuring swift and agile movement across the battle arena.
+Equipped with two 1000 KV motors to drive the wheels attached to a 30 A Motor Driver, ensuring swift and agile movement across the battle arena.
 
 Offensive Mechanism
 
