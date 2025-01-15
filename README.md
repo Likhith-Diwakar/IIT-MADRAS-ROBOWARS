@@ -1,4 +1,4 @@
-IIT Madras Robowars Competition
+##IIT Madras Robowars Competition
 
 Project Overview
 
